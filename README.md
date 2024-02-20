@@ -1,5 +1,6 @@
 # Mao Xun Huang - Software & Machine Learning Specialist
 [🌏 Personal Website](https://mao-code.github.io/about/)
+[📄 Resume](https://docs.google.com/document/d/1KadfXrxMbNdT4Vgm29JMAikHsAoCLeOG5xwGkWOZQEs/edit?usp=sharing)
 
 ## 🎓 Education
 - Studying at **National Chengchi University**
