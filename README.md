@@ -68,6 +68,6 @@
 - **NCCU Foodie Project**: Java, NodeJS, MySQL
 
 ---
-💼 LinkedIn: [MaoXun(Michael) Huang](https://www.linkedin.com/in/maoxun-huang-a77913268/)
-📧 Connect with me: [codingmaoxun@gmail.com](mailto:codingmaoxun@gmail.com)
+* 💼 LinkedIn: [MaoXun(Michael) Huang](https://www.linkedin.com/in/maoxun-huang-a77913268/)
+* 📧 Connect with me: [codingmaoxun@gmail.com](mailto:codingmaoxun@gmail.com)
 
