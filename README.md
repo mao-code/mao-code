@@ -1,7 +1,7 @@
 # Mao Xun Huang - Software & Machine Learning Specialist
 * [🌏 Personal Website](https://mao-code.github.io/about/)
 * [📄 CV](https://drive.google.com/file/d/14bMJMFUG4vz3fpQEoJtRrG0Egd19fIah/view?usp=drive_link)
-* [📄 Resume](https://docs.google.com/document/d/1KadfXrxMbNdT4Vgm29JMAikHsAoCLeOG5xwGkWOZQEs/edit?usp=sharing)
+* [📄 Resume](https://drive.google.com/file/d/1G00hAXMKWiRVyx66h8LSS19TVnDVXaq5/view?usp=drive_link)
 * 💼 LinkedIn: [MaoXun(Michael) Huang](https://www.linkedin.com/in/maoxun-huang-a77913268/)
 * 📧 Connect with me: [codingmaoxun@gmail.com](mailto:codingmaoxun@gmail.com)
   
