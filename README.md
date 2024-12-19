@@ -25,7 +25,7 @@
 3. AWS Educate Cloud Ambassador - Technical Support
 4. Text-Mining Course Teaching Assistant @ NCCU
 
-## 🔬 Research Experience (Link in CV)
+## 🔬 Research Publications (Link in CV)
 1. (2024) SmartSpatial: Enhancing the 3D Spatial Arrangement Capabilities of Stable Diffusion Models and Introducing a Novel 3D Spatial Evaluation Algorithm. 
 2. (2024) Integrating Text-to-Image and Vision Language Models for Synergistic Dataset Generation: The Creation of Synergy-General-Multimodal Pairs
 3. (2024) From Brainwaves to Behavior: Leveraging EEG and Machine Learning to Uncover Cognitive Drivers of Reliance in Human-Robot Collaboration.
