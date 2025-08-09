@@ -1,12 +1,17 @@
 # Mao Xun Huang
+* [📄 Resume](https://drive.google.com/file/d/1hLirWC5LMIzjnbi6YcB9cGvBLD8Do5GP/view?usp=drive_link)
+* 💼 LinkedIn: [MaoXun(Michael) Huang](https://www.linkedin.com/in/maoxun-huang-a77913268/)
+---
 * [🌏 Personal Website](https://mao-code.github.io/about/)
 * [📄 CV](https://drive.google.com/file/d/14bMJMFUG4vz3fpQEoJtRrG0Egd19fIah/view?usp=drive_link)
-* [📄 Resume](https://drive.google.com/file/d/1G00hAXMKWiRVyx66h8LSS19TVnDVXaq5/view?usp=drive_link)
-* 💼 LinkedIn: [MaoXun(Michael) Huang](https://www.linkedin.com/in/maoxun-huang-a77913268/)
 * 📧 Connect with me: [codingmaoxun@gmail.com](mailto:codingmaoxun@gmail.com)
   
 ## 🎓 Education
-- Studying at **National Chengchi University**
+- **Cornell University**
+  - Master of Engineering
+  - Major: Computer Science
+  - Expected Graduation: Jun. 2026
+- **National Chengchi University**
   - Bachelor of Science
   - Major: Management Information Systems
   - Dual Degree: Artificial Intelligence Applications (Bachelor Program)
